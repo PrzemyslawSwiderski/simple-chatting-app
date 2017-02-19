@@ -1,2 +1,2 @@
-# simple-chatting-app
-Chat app based on Socket.IO .
+# Simple Chatting App
+Simple Chat App based on Socket.IO, Node.js and Express.js
